@@ -38,7 +38,8 @@ sites:
   - name: Staphylococcus regulator RNA Database
     url: http://srd.genouest.org/#
   - name: Vibrio Cholera Genome Database
-    url: https://vibrio.biocyc.org/
+    url: https://vibrio.biocyc.org/ 
+     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
