@@ -9,8 +9,6 @@ sites:
     url: https://www.ddbj.nig.ac.jp/services/index-e.html
   - name: BROAD Institute
     url: https://www.broadinstitute.org/data-software-and-tools
-  - name: Sanger Institute
-    url: https://www.sanger.ac.uk/science/tools/#{%22tool%22:{%22archive%22:%22%22,%22type%22:%22%22,%22programme%22:%22%22,%22text%22:%22%22}}
   - name: ATCC
     url: https://www.atcc.org/resources/application-notes/microbial-genome-databases
   - name: Biocyc Genome Database
@@ -33,13 +31,10 @@ sites:
     url: https://www.ecocyc.org/
   - name: ECMDB
     url: https://ecmdb.ca/
-  - name: Staphylococcus Aureus Transcriptome Meta-Database
-    url: https://satmd.org/#:~:text=SATMD%20is%20the%20Staphylococcus%20aureus%20transcriptome%20meta-database.%20SATMD,condition%2C%20using%20microarray%20and%20other%20transcriptome%20%28NGS%29%20technology
   - name: Staphylococcus regulator RNA Database
     url: http://srd.genouest.org/#
   - name: Vibrio Cholera Genome Database
     url: https://vibrio.biocyc.org/ 
-     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
