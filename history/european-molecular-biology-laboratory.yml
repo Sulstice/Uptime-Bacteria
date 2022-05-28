@@ -1,7 +1,7 @@
 url: https://www.ebi.ac.uk/
-status: up
-code: 200
-responseTime: 1875
-lastUpdated: 2022-05-27T23:05:58.873Z
+status: down
+code: 500
+responseTime: 1238
+lastUpdated: 2022-05-28T02:49:58.452Z
 startTime: Sun May 22 2022 07:00:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
