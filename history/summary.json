@@ -4,7 +4,7 @@
     "url": "https://www.ebi.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/www.ebi.ac.uk",
     "slug": "european-molecular-biology-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1211,
     "timeDay": 939,
     "timeWeek": 1338,
-    "timeMonth": 1200,
+    "timeMonth": 1212,
     "timeYear": 1211,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 2623,
     "timeDay": 2931,
     "timeWeek": 2151,
-    "timeMonth": 2826,
+    "timeMonth": 2695,
     "timeYear": 2623,
     "dailyMinutesDown": {}
   },
