@@ -121,7 +121,7 @@
     "time": 2510,
     "timeDay": 1754,
     "timeWeek": 1964,
-    "timeMonth": 2338,
+    "timeMonth": 2334,
     "timeYear": 2510,
     "dailyMinutesDown": {}
   },
@@ -256,7 +256,7 @@
     "url": "http://srd.genouest.org/#",
     "icon": "https://favicons.githubusercontent.com/srd.genouest.org",
     "slug": "staphylococcus-regulator-rna-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
