@@ -1,7 +1,7 @@
 url: https://biocyc.org
-status: down
-code: 503
-responseTime: 573
-lastUpdated: 2022-08-24T18:39:50.321Z
+status: up
+code: 200
+responseTime: 644
+lastUpdated: 2022-08-24T19:54:32.411Z
 startTime: Sun May 22 2022 07:00:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
