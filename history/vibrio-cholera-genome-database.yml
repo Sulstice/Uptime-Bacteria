@@ -1,7 +1,7 @@
 url: https://vibrio.biocyc.org/
-status: down
-code: 503
-responseTime: 513
-lastUpdated: 2022-08-26T05:02:07.278Z
+status: up
+code: 200
+responseTime: 1106
+lastUpdated: 2022-08-26T05:37:10.549Z
 startTime: Sun May 22 2022 07:00:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
