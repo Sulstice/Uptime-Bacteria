@@ -175,7 +175,7 @@
     "time": 1677,
     "timeDay": 1960,
     "timeWeek": 1752,
-    "timeMonth": 1731,
+    "timeMonth": 1730,
     "timeYear": 1677,
     "dailyMinutesDown": {}
   },
@@ -184,7 +184,7 @@
     "url": "https://gold.jgi.doe.gov/",
     "icon": "https://favicons.githubusercontent.com/gold.jgi.doe.gov",
     "slug": "jgi-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -193,7 +193,7 @@
     "time": 2126,
     "timeDay": 2586,
     "timeWeek": 2442,
-    "timeMonth": 2199,
+    "timeMonth": 2248,
     "timeYear": 2126,
     "dailyMinutesDown": {}
   },
