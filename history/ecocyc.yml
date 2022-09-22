@@ -1,7 +1,7 @@
 url: https://www.ecocyc.org/
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2022-09-21T23:06:11.179Z
+status: down
+code: 503
+responseTime: 532
+lastUpdated: 2022-09-22T18:59:49.721Z
 startTime: Sun May 22 2022 07:00:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
