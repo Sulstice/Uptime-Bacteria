@@ -76,7 +76,7 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 953,
     "timeDay": 617,
     "timeWeek": 549,
-    "timeMonth": 852,
+    "timeMonth": 859,
     "timeYear": 953,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "url": "https://www.ecocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecocyc.org.ico",
     "slug": "ecocyc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -229,7 +229,7 @@
     "time": 661,
     "timeDay": 514,
     "timeWeek": 724,
-    "timeMonth": 657,
+    "timeMonth": 654,
     "timeYear": 661,
     "dailyMinutesDown": {}
   },
@@ -274,7 +274,7 @@
     "url": "https://vibrio.biocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/vibrio.biocyc.org.ico",
     "slug": "vibrio-cholera-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -283,7 +283,7 @@
     "time": 765,
     "timeDay": 2459,
     "timeWeek": 904,
-    "timeMonth": 836,
+    "timeMonth": 833,
     "timeYear": 765,
     "dailyMinutesDown": {}
   }
