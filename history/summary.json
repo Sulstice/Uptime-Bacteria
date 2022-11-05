@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1682,
     "timeDay": 1779,
-    "timeWeek": 1720,
+    "timeWeek": 1711,
     "timeMonth": 1781,
     "timeYear": 1682,
     "dailyMinutesDown": {}
@@ -184,7 +184,7 @@
     "url": "https://gold.jgi.doe.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/gold.jgi.doe.gov.ico",
     "slug": "jgi-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
