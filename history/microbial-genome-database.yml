@@ -1,7 +1,7 @@
 url: https://mbgd.nibb.ac.jp/
-status: up
-code: 200
-responseTime: 1229
-lastUpdated: 2022-11-10T23:06:17.273Z
+status: down
+code: 500
+responseTime: 4172
+lastUpdated: 2022-11-11T06:08:53.606Z
 startTime: Sun May 22 2022 07:00:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
