@@ -94,7 +94,7 @@
     "url": "https://www.ncbi.nlm.nih.gov/genome/microbes/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico",
     "slug": "national-center-for-bioinformatics-microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1683,
     "timeDay": 1248,
-    "timeWeek": 1532,
+    "timeWeek": 1566,
     "timeMonth": 1783,
     "timeYear": 1683,
     "dailyMinutesDown": {}
