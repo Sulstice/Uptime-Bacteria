@@ -67,7 +67,7 @@
     "time": 1191,
     "timeDay": 656,
     "timeWeek": 2119,
-    "timeMonth": 1219,
+    "timeMonth": 1241,
     "timeYear": 1191,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -246,8 +246,8 @@
     "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 440,
-    "timeWeek": 476,
-    "timeMonth": 514,
+    "timeWeek": 501,
+    "timeMonth": 522,
     "timeYear": 619,
     "dailyMinutesDown": {}
   },
