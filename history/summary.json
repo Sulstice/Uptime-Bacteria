@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 872,
     "timeDay": 549,
-    "timeWeek": 604,
+    "timeWeek": 623,
     "timeMonth": 714,
     "timeYear": 872,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "url": "https://www.hmpdacc.org/hmp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hmpdacc.org.ico",
     "slug": "nih-human-microbiome-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 521,
-    "timeWeek": 537,
+    "timeWeek": 541,
     "timeMonth": 1185,
     "timeYear": 709,
     "dailyMinutesDown": {}
