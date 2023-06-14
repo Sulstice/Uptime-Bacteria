@@ -1,7 +1,7 @@
 url: https://gold.jgi.doe.gov/
-status: up
-code: 200
-responseTime: 1655
-lastUpdated: 2023-06-13T23:06:11.060Z
+status: down
+code: 503
+responseTime: 479
+lastUpdated: 2023-06-14T00:26:25.021Z
 startTime: Sun May 22 2022 07:00:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
