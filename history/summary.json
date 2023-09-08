@@ -274,17 +274,17 @@
     "url": "https://vibrio.biocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/vibrio.biocyc.org.ico",
     "slug": "vibrio-cholera-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 7820,
-    "timeWeek": 4677,
-    "timeMonth": 2420,
-    "timeYear": 937,
+    "time": 905,
+    "timeDay": 8005,
+    "timeWeek": 4997,
+    "timeMonth": 2628,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   }
 ]
