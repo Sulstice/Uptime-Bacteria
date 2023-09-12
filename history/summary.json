@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1086,
-    "timeDay": 715,
+    "timeDay": 769,
     "timeWeek": 835,
     "timeMonth": 990,
     "timeYear": 1096,
@@ -157,7 +157,7 @@
     "time": 407,
     "timeDay": 296,
     "timeWeek": 467,
-    "timeMonth": 381,
+    "timeMonth": 383,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "url": "https://www.ecocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecocyc.org.ico",
     "slug": "ecocyc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -284,7 +284,7 @@
     "timeDay": 841,
     "timeWeek": 4738,
     "timeMonth": 2582,
-    "timeYear": 955,
+    "timeYear": 956,
     "dailyMinutesDown": {}
   }
 ]
