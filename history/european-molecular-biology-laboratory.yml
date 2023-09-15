@@ -1,7 +1,7 @@
 url: https://www.ebi.ac.uk/
-status: up
-code: 200
-responseTime: 1112
-lastUpdated: 2023-09-14T23:06:10.052Z
+status: down
+code: 500
+responseTime: 1430
+lastUpdated: 2023-09-15T21:31:07.105Z
 startTime: 2022-05-22T07:00:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
