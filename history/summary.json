@@ -14,7 +14,7 @@
     "timeDay": 1460,
     "timeWeek": 1295,
     "timeMonth": 1226,
-    "timeYear": 1418,
+    "timeYear": 1419,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://www.broadinstitute.org/data-software-and-tools",
     "icon": "https://icons.duckduckgo.com/ip3/www.broadinstitute.org.ico",
     "slug": "broad-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 438,
-    "timeWeek": 512,
-    "timeMonth": 473,
-    "timeYear": 461,
+    "time": 413,
+    "timeDay": 650,
+    "timeWeek": 556,
+    "timeMonth": 485,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 1803,
     "timeWeek": 1779,
     "timeMonth": 1980,
-    "timeYear": 2113,
+    "timeYear": 2116,
     "dailyMinutesDown": {}
   },
   {
