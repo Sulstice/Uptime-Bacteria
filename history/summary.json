@@ -86,7 +86,7 @@
     "timeDay": 546,
     "timeWeek": 486,
     "timeMonth": 656,
-    "timeYear": 715,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -119,7 +119,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2062,
-    "timeDay": 2158,
+    "timeDay": 1846,
     "timeWeek": 1923,
     "timeMonth": 1853,
     "timeYear": 2083,
@@ -184,17 +184,17 @@
     "url": "https://gold.jgi.doe.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/gold.jgi.doe.gov.ico",
     "slug": "jgi-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2095,
-    "timeDay": 1666,
-    "timeWeek": 1552,
-    "timeMonth": 1626,
-    "timeYear": 1993,
+    "time": 2093,
+    "timeDay": 1033,
+    "timeWeek": 1437,
+    "timeMonth": 1594,
+    "timeYear": 1989,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 645,
     "timeWeek": 503,
     "timeMonth": 574,
-    "timeYear": 704,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 825,
     "timeWeek": 638,
     "timeMonth": 816,
-    "timeYear": 877,
+    "timeYear": 872,
     "dailyMinutesDown": {}
   }
 ]
