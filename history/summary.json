@@ -58,7 +58,7 @@
     "url": "https://www.atcc.org/resources/application-notes/microbial-genome-databases",
     "icon": "https://icons.duckduckgo.com/ip3/www.atcc.org.ico",
     "slug": "atcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1079,
     "timeDay": 693,
-    "timeWeek": 746,
+    "timeWeek": 766,
     "timeMonth": 750,
     "timeYear": 1058,
     "dailyMinutesDown": {}
@@ -85,7 +85,7 @@
     "time": 717,
     "timeDay": 557,
     "timeWeek": 587,
-    "timeMonth": 655,
+    "timeMonth": 652,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -191,7 +191,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2059,
-    "timeDay": 662,
+    "timeDay": 644,
     "timeWeek": 1246,
     "timeMonth": 1481,
     "timeYear": 1924,
@@ -212,7 +212,7 @@
     "timeDay": 262,
     "timeWeek": 212,
     "timeMonth": 255,
-    "timeYear": 489,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
@@ -229,7 +229,7 @@
     "time": 689,
     "timeDay": 516,
     "timeWeek": 535,
-    "timeMonth": 574,
+    "timeMonth": 575,
     "timeYear": 655,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 909,
     "timeDay": 548,
     "timeWeek": 672,
-    "timeMonth": 807,
+    "timeMonth": 808,
     "timeYear": 863,
     "dailyMinutesDown": {}
   }
