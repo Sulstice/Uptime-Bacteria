@@ -67,7 +67,7 @@
     "time": 1072,
     "timeDay": 978,
     "timeWeek": 675,
-    "timeMonth": 841,
+    "timeMonth": 849,
     "timeYear": 1046,
     "dailyMinutesDown": {}
   },
@@ -212,7 +212,7 @@
     "timeDay": 461,
     "timeWeek": 351,
     "timeMonth": 319,
-    "timeYear": 948,
+    "timeYear": 901,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "http://srd.genouest.org/#",
     "icon": "https://icons.duckduckgo.com/ip3/srd.genouest.org.ico",
     "slug": "staphylococcus-regulator-rna-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 1227,
-    "timeWeek": 958,
+    "timeWeek": 964,
     "timeMonth": 1679,
     "timeYear": 994,
     "dailyMinutesDown": {}
