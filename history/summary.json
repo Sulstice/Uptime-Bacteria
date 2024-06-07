@@ -202,7 +202,7 @@
     "url": "https://www.pseudomonas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pseudomonas.com.ico",
     "slug": "pseudomonas-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -211,7 +211,7 @@
     "time": 870,
     "timeDay": 146,
     "timeWeek": 274,
-    "timeMonth": 1675,
+    "timeMonth": 1698,
     "timeYear": 1031,
     "dailyMinutesDown": {}
   },
