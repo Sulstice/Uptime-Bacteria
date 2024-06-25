@@ -4,7 +4,7 @@
     "url": "https://www.ebi.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "european-molecular-biology-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 862,
     "timeDay": 200,
-    "timeWeek": 8047,
+    "timeWeek": 8393,
     "timeMonth": 4101,
     "timeYear": 950,
     "dailyMinutesDown": {}
