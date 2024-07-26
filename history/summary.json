@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1153,
     "timeDay": 997,
-    "timeWeek": 896,
+    "timeWeek": 902,
     "timeMonth": 1170,
     "timeYear": 1125,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 924,
     "timeDay": 972,
-    "timeWeek": 972,
+    "timeWeek": 967,
     "timeMonth": 903,
     "timeYear": 949,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 523,
     "timeDay": 317,
-    "timeWeek": 379,
+    "timeWeek": 382,
     "timeMonth": 546,
     "timeYear": 510,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://www.atcc.org/resources/application-notes/microbial-genome-databases",
     "icon": "https://icons.duckduckgo.com/ip3/www.atcc.org.ico",
     "slug": "atcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1072,
     "timeDay": 696,
-    "timeWeek": 697,
+    "timeWeek": 704,
     "timeMonth": 1850,
     "timeYear": 1068,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 727,
-    "timeWeek": 671,
+    "timeWeek": 664,
     "timeMonth": 641,
     "timeYear": 783,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 601,
-    "timeWeek": 262,
+    "timeWeek": 268,
     "timeMonth": 365,
     "timeYear": 942,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 2029,
     "timeDay": 1627,
-    "timeWeek": 1578,
+    "timeWeek": 1544,
     "timeMonth": 1781,
     "timeYear": 2034,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1073,
     "timeDay": 870,
-    "timeWeek": 917,
+    "timeWeek": 906,
     "timeMonth": 928,
     "timeYear": 1006,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1639,
     "timeDay": 1744,
-    "timeWeek": 1769,
+    "timeWeek": 1824,
     "timeMonth": 1611,
     "timeYear": 1647,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 1285,
     "timeDay": 552,
-    "timeWeek": 455,
+    "timeWeek": 454,
     "timeMonth": 441,
     "timeYear": 1057,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 988,
     "timeDay": 99,
-    "timeWeek": 206,
+    "timeWeek": 209,
     "timeMonth": 1730,
     "timeYear": 1133,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 701,
     "timeDay": 618,
-    "timeWeek": 614,
+    "timeWeek": 635,
     "timeMonth": 602,
     "timeYear": 716,
     "dailyMinutesDown": {}
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 194,
-    "timeWeek": 234,
+    "timeWeek": 230,
     "timeMonth": 390,
     "timeYear": 531,
     "dailyMinutesDown": {}
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 949,
     "timeDay": 826,
-    "timeWeek": 857,
+    "timeWeek": 861,
     "timeMonth": 917,
     "timeYear": 978,
     "dailyMinutesDown": {}
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 825,
     "timeDay": 907,
-    "timeWeek": 822,
+    "timeWeek": 847,
     "timeMonth": 919,
     "timeYear": 854,
     "dailyMinutesDown": {}
