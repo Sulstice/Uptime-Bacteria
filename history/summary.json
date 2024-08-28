@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1188,
     "timeDay": 1843,
-    "timeWeek": 1281,
+    "timeWeek": 1170,
     "timeMonth": 1206,
     "timeYear": 1123,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "url": "https://ecmdb.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/ecmdb.ca.ico",
     "slug": "ecmdb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
