@@ -4,7 +4,7 @@
     "url": "https://www.ebi.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "european-molecular-biology-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 725,
     "timeWeek": 711,
     "timeMonth": 1184,
-    "timeYear": 1032,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 231,
     "timeWeek": 376,
     "timeMonth": 413,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 209,
-    "timeWeek": 370,
+    "timeWeek": 378,
     "timeMonth": 1189,
     "timeYear": 631,
     "dailyMinutesDown": {}
