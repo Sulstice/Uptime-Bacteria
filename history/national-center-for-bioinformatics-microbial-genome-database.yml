@@ -1,7 +1,7 @@
 url: https://www.ncbi.nlm.nih.gov/genome/microbes/
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2024-09-09T23:07:07.638Z
+status: down
+code: 502
+responseTime: 646
+lastUpdated: 2024-09-10T13:50:46.717Z
 startTime: 2022-05-22T07:00:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
