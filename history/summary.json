@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
+    "time": 1022,
     "timeDay": 4919,
     "timeWeek": 2517,
     "timeMonth": 1330,
-    "timeYear": 1022,
+    "timeYear": 1024,
     "dailyMinutesDown": {}
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 2057,
     "timeDay": 1579,
-    "timeWeek": 2006,
+    "timeWeek": 2060,
     "timeMonth": 1980,
     "timeYear": 2029,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1774,
     "timeDay": 1952,
-    "timeWeek": 1975,
+    "timeWeek": 1893,
     "timeMonth": 2049,
     "timeYear": 1817,
     "dailyMinutesDown": {}
