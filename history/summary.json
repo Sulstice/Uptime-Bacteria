@@ -155,8 +155,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 2909,
-    "timeWeek": 1691,
+    "timeDay": 414,
+    "timeWeek": 1760,
     "timeMonth": 1641,
     "timeYear": 768,
     "dailyMinutesDown": {}
@@ -202,15 +202,15 @@
     "url": "https://www.pseudomonas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pseudomonas.com.ico",
     "slug": "pseudomonas-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1477,
+    "time": 1479,
     "timeDay": 194,
-    "timeWeek": 1898,
+    "timeWeek": 222,
     "timeMonth": 3238,
     "timeYear": 1700,
     "dailyMinutesDown": {}
@@ -248,7 +248,7 @@
     "timeDay": 211,
     "timeWeek": 1830,
     "timeMonth": 760,
-    "timeYear": 547,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
