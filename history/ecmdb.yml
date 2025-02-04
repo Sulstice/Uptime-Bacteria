@@ -1,7 +1,7 @@
 url: https://ecmdb.ca/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-04T13:17:02.386Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2025-02-04T13:28:35.119Z
 startTime: 2022-05-22T07:00:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
