@@ -1,7 +1,7 @@
 url: https://www.pseudomonas.com/
-status: up
-code: 200
-responseTime: 314
-lastUpdated: 2025-03-27T11:46:33.613Z
+status: down
+code: 403
+responseTime: 130
+lastUpdated: 2025-03-27T12:15:59.319Z
 startTime: 2022-05-22T07:00:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
