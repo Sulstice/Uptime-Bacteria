@@ -1,7 +1,7 @@
 url: https://www.atcc.org/resources/application-notes/microbial-genome-databases
-status: up
-code: 200
-responseTime: 688
-lastUpdated: 2025-04-14T23:06:49.228Z
+status: down
+code: 525
+responseTime: 232
+lastUpdated: 2025-04-15T02:19:16.350Z
 startTime: 2022-05-22T07:00:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
