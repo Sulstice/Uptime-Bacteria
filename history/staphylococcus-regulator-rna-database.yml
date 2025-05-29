@@ -1,7 +1,7 @@
 url: http://srd.genouest.org/#
-status: up
-code: 200
-responseTime: 2002
-lastUpdated: 2025-05-29T00:35:32.085Z
+status: down
+code: 500
+responseTime: 4825
+lastUpdated: 2025-05-29T11:33:15.335Z
 startTime: 2022-05-22T07:00:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
