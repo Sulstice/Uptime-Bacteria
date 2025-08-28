@@ -58,17 +58,17 @@
     "url": "https://www.atcc.org/resources/application-notes/microbial-genome-databases",
     "icon": "https://icons.duckduckgo.com/ip3/www.atcc.org.ico",
     "slug": "atcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1148,
-    "timeDay": 853,
-    "timeWeek": 1467,
-    "timeMonth": 1130,
-    "timeYear": 1110,
+    "time": 1147,
+    "timeDay": 732,
+    "timeWeek": 1413,
+    "timeMonth": 1117,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 183,
     "timeWeek": 404,
     "timeMonth": 395,
-    "timeYear": 1229,
+    "timeYear": 1231,
     "dailyMinutesDown": {}
   },
   {
