@@ -50,7 +50,7 @@
     "timeDay": 611,
     "timeWeek": 565,
     "timeMonth": 549,
-    "timeYear": 569,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -238,15 +238,15 @@
     "url": "https://ecmdb.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/ecmdb.ca.ico",
     "slug": "ecmdb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1718,
+    "time": 1720,
     "timeDay": 401,
-    "timeWeek": 524,
+    "timeWeek": 530,
     "timeMonth": 4537,
     "timeYear": 1941,
     "dailyMinutesDown": {}
