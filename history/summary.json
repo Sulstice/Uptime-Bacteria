@@ -40,17 +40,17 @@
     "url": "https://www.broadinstitute.org/data-software-and-tools",
     "icon": "https://icons.duckduckgo.com/ip3/www.broadinstitute.org.ico",
     "slug": "broad-institute",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 430,
-    "timeWeek": 612,
-    "timeMonth": 571,
-    "timeYear": 576,
+    "time": 569,
+    "timeDay": 607,
+    "timeWeek": 634,
+    "timeMonth": 578,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 410,
     "timeWeek": 564,
     "timeMonth": 771,
-    "timeYear": 1892,
+    "timeYear": 1894,
     "dailyMinutesDown": {}
   },
   {
