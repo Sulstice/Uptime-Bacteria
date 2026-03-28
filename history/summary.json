@@ -103,7 +103,7 @@
     "time": 521,
     "timeDay": 162,
     "timeWeek": 352,
-    "timeMonth": 493,
+    "timeMonth": 507,
     "timeYear": 403,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://bacteria.ensembl.org/species.html",
     "icon": "https://icons.duckduckgo.com/ip3/bacteria.ensembl.org.ico",
     "slug": "ensembl-bacteria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3301,
-    "timeDay": 4021,
-    "timeWeek": 2670,
-    "timeMonth": 3489,
-    "timeYear": 3158,
+    "timeDay": 4248,
+    "timeWeek": 2641,
+    "timeMonth": 3431,
+    "timeYear": 3156,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 89,
     "timeWeek": 104,
     "timeMonth": 128,
-    "timeYear": 563,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 2116,
     "timeDay": 1865,
-    "timeWeek": 2034,
+    "timeWeek": 2043,
     "timeMonth": 2073,
     "timeYear": 2146,
     "dailyMinutesDown": {}
