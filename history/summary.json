@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1058,
-    "timeDay": 1921,
+    "timeDay": 812,
     "timeWeek": 1059,
     "timeMonth": 941,
-    "timeYear": 1066,
+    "timeYear": 1065,
     "dailyMinutesDown": {}
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 3462,
     "timeDay": 1219,
-    "timeWeek": 4097,
+    "timeWeek": 4139,
     "timeMonth": 4024,
     "timeYear": 3257,
     "dailyMinutesDown": {}
@@ -148,17 +148,17 @@
     "url": "https://www.hmpdacc.org/hmp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hmpdacc.org.ico",
     "slug": "nih-human-microbiome-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2124,
-    "timeDay": 492,
-    "timeWeek": 561,
-    "timeMonth": 583,
-    "timeYear": 2415,
+    "timeDay": 515,
+    "timeWeek": 564,
+    "timeMonth": 584,
+    "timeYear": 2412,
     "dailyMinutesDown": {}
   },
   {
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 1922,
     "timeDay": 331,
-    "timeWeek": 372,
+    "timeWeek": 378,
     "timeMonth": 1176,
     "timeYear": 2048,
     "dailyMinutesDown": {}
