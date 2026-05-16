@@ -1,7 +1,7 @@
 url: https://bacteria.ensembl.org/species.html
-status: down
-code: 500
-responseTime: 531
-lastUpdated: 2026-05-16T22:22:21.252Z
+status: up
+code: 200
+responseTime: 30103
+lastUpdated: 2026-05-16T22:42:57.075Z
 startTime: 2022-05-22T07:00:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
