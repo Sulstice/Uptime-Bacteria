@@ -68,7 +68,7 @@
     "timeDay": 1088,
     "timeWeek": 904,
     "timeMonth": 2060,
-    "timeYear": 1089,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 469,
     "timeWeek": 657,
     "timeMonth": 576,
-    "timeYear": 1717,
+    "timeYear": 1719,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://bacteria.ensembl.org/species.html",
     "icon": "https://icons.duckduckgo.com/ip3/bacteria.ensembl.org.ico",
     "slug": "ensembl-bacteria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3729,
-    "timeDay": 8924,
-    "timeWeek": 6819,
-    "timeMonth": 4638,
-    "timeYear": 3750,
+    "timeDay": 7970,
+    "timeWeek": 6199,
+    "timeMonth": 4635,
+    "timeYear": 3749,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 450,
     "timeWeek": 549,
     "timeMonth": 716,
-    "timeYear": 881,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 430,
     "timeWeek": 1954,
     "timeMonth": 832,
-    "timeYear": 2131,
+    "timeYear": 2134,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 0,
     "timeWeek": 932,
     "timeMonth": 1209,
-    "timeYear": 1933,
+    "timeYear": 1927,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 470,
     "timeWeek": 573,
     "timeMonth": 790,
-    "timeYear": 1407,
+    "timeYear": 1408,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 2370,
     "timeWeek": 1100,
     "timeMonth": 5290,
-    "timeYear": 2264,
+    "timeYear": 2267,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 2134,
     "timeWeek": 1903,
     "timeMonth": 1966,
-    "timeYear": 2113,
+    "timeYear": 2114,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 537,
     "timeWeek": 756,
     "timeMonth": 720,
-    "timeYear": 1662,
+    "timeYear": 1664,
     "dailyMinutesDown": {}
   }
 ]
