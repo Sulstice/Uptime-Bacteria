@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3753,
-    "timeDay": 914,
+    "timeDay": 912,
     "timeWeek": 1897,
-    "timeMonth": 4588,
+    "timeMonth": 4571,
     "timeYear": 3767,
     "dailyMinutesDown": {}
   },
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1783,
     "timeDay": 406,
-    "timeWeek": 439,
+    "timeWeek": 436,
     "timeMonth": 671,
     "timeYear": 2042,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1927,
     "timeDay": 1751,
-    "timeWeek": 1616,
+    "timeWeek": 1626,
     "timeMonth": 1434,
     "timeYear": 1886,
     "dailyMinutesDown": {}
