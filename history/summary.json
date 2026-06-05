@@ -86,7 +86,7 @@
     "timeDay": 596,
     "timeWeek": 586,
     "timeMonth": 642,
-    "timeYear": 1722,
+    "timeYear": 1724,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 199,
     "timeWeek": 611,
     "timeMonth": 719,
-    "timeYear": 425,
+    "timeYear": 426,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 1069,
     "timeWeek": 1851,
     "timeMonth": 4554,
-    "timeYear": 3760,
+    "timeYear": 3762,
     "dailyMinutesDown": {}
   },
   {
@@ -148,16 +148,16 @@
     "url": "https://www.hmpdacc.org/hmp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hmpdacc.org.ico",
     "slug": "nih-human-microbiome-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1780,
-    "timeDay": 447,
-    "timeWeek": 436,
-    "timeMonth": 660,
+    "time": 1779,
+    "timeDay": 426,
+    "timeWeek": 433,
+    "timeMonth": 657,
     "timeYear": 2034,
     "dailyMinutesDown": {}
   },
@@ -166,14 +166,14 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1927,
-    "timeDay": 1746,
+    "timeDay": 1750,
     "timeWeek": 1630,
     "timeMonth": 1463,
     "timeYear": 1882,
@@ -230,7 +230,7 @@
     "timeDay": 587,
     "timeWeek": 461,
     "timeMonth": 782,
-    "timeYear": 1396,
+    "timeYear": 1398,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 361,
     "timeWeek": 408,
     "timeMonth": 7691,
-    "timeYear": 2367,
+    "timeYear": 2369,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 1748,
     "timeWeek": 1834,
     "timeMonth": 1852,
-    "timeYear": 2100,
+    "timeYear": 2101,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 848,
     "timeWeek": 658,
     "timeMonth": 699,
-    "timeYear": 1651,
+    "timeYear": 1652,
     "dailyMinutesDown": {}
   }
 ]
