@@ -13,8 +13,8 @@
     "time": 1258,
     "timeDay": 973,
     "timeWeek": 1046,
-    "timeMonth": 1088,
-    "timeYear": 1265,
+    "timeMonth": 1096,
+    "timeYear": 1266,
     "dailyMinutesDown": {}
   },
   {
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 961,
     "timeDay": 907,
-    "timeWeek": 1781,
-    "timeMonth": 1094,
+    "timeWeek": 887,
+    "timeMonth": 1101,
     "timeYear": 973,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 518,
     "timeDay": 89,
     "timeWeek": 69,
-    "timeMonth": 52,
+    "timeMonth": 53,
     "timeYear": 485,
     "dailyMinutesDown": {}
   },
@@ -67,8 +67,8 @@
     "time": 1093,
     "timeDay": 614,
     "timeWeek": 721,
-    "timeMonth": 735,
-    "timeYear": 1075,
+    "timeMonth": 738,
+    "timeYear": 1076,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 520,
     "timeWeek": 622,
     "timeMonth": 665,
-    "timeYear": 1704,
+    "timeYear": 1706,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +103,8 @@
     "time": 444,
     "timeDay": 345,
     "timeWeek": 598,
-    "timeMonth": 709,
-    "timeYear": 427,
+    "timeMonth": 724,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3735,
-    "timeDay": 5734,
-    "timeWeek": 3604,
-    "timeMonth": 4766,
-    "timeYear": 3789,
+    "timeDay": 1616,
+    "timeWeek": 3687,
+    "timeMonth": 4776,
+    "timeYear": 3790,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 870,
     "timeDay": 543,
     "timeWeek": 552,
-    "timeMonth": 556,
+    "timeMonth": 555,
     "timeYear": 864,
     "dailyMinutesDown": {}
   },
@@ -148,16 +148,16 @@
     "url": "https://www.hmpdacc.org/hmp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hmpdacc.org.ico",
     "slug": "nih-human-microbiome-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1760,
-    "timeDay": 409,
-    "timeWeek": 445,
-    "timeMonth": 613,
+    "time": 1758,
+    "timeDay": 384,
+    "timeWeek": 441,
+    "timeMonth": 609,
     "timeYear": 1977,
     "dailyMinutesDown": {}
   },
@@ -166,16 +166,16 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
+    "time": 1938,
     "timeDay": 1545,
     "timeWeek": 1820,
-    "timeMonth": 1679,
+    "timeMonth": 1684,
     "timeYear": 1890,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 692,
     "timeDay": 515,
     "timeWeek": 1012,
-    "timeMonth": 564,
+    "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 660,
     "timeDay": 58,
     "timeWeek": 29,
-    "timeMonth": 27,
+    "timeMonth": 28,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -229,8 +229,8 @@
     "time": 1304,
     "timeDay": 506,
     "timeWeek": 486,
-    "timeMonth": 794,
-    "timeYear": 1395,
+    "timeMonth": 800,
+    "timeYear": 1397,
     "dailyMinutesDown": {}
   },
   {
@@ -247,8 +247,8 @@
     "time": 2491,
     "timeDay": 12308,
     "timeWeek": 12438,
-    "timeMonth": 10194,
-    "timeYear": 2572,
+    "timeMonth": 10416,
+    "timeYear": 2575,
     "dailyMinutesDown": {}
   },
   {
@@ -265,8 +265,8 @@
     "time": 2115,
     "timeDay": 1827,
     "timeWeek": 2338,
-    "timeMonth": 1981,
-    "timeYear": 2110,
+    "timeMonth": 1991,
+    "timeYear": 2111,
     "dailyMinutesDown": {}
   },
   {
@@ -283,8 +283,8 @@
     "time": 1409,
     "timeDay": 580,
     "timeWeek": 822,
-    "timeMonth": 735,
-    "timeYear": 1651,
+    "timeMonth": 727,
+    "timeYear": 1653,
     "dailyMinutesDown": {}
   }
 ]
