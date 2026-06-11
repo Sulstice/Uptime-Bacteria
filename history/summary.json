@@ -32,7 +32,7 @@
     "timeDay": 707,
     "timeWeek": 870,
     "timeMonth": 1092,
-    "timeYear": 971,
+    "timeYear": 972,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 136,
     "timeWeek": 84,
     "timeMonth": 58,
-    "timeYear": 483,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 419,
     "timeWeek": 550,
     "timeMonth": 663,
-    "timeYear": 1701,
+    "timeYear": 1695,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 635,
     "timeWeek": 575,
     "timeMonth": 756,
-    "timeYear": 433,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 3737,
     "timeDay": 1145,
-    "timeWeek": 4201,
+    "timeWeek": 4303,
     "timeMonth": 4715,
-    "timeYear": 3788,
+    "timeYear": 3789,
     "dailyMinutesDown": {}
   },
   {
@@ -155,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1755,
-    "timeDay": 497,
-    "timeWeek": 437,
+    "timeDay": 487,
+    "timeWeek": 439,
     "timeMonth": 585,
-    "timeYear": 1944,
+    "timeYear": 1946,
     "dailyMinutesDown": {}
   },
   {
@@ -166,17 +166,17 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1987,
-    "timeDay": 1576,
+    "time": 1988,
+    "timeDay": 1501,
     "timeWeek": 2665,
     "timeMonth": 2252,
-    "timeYear": 1975,
+    "timeYear": 1976,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 458,
     "timeWeek": 489,
     "timeMonth": 795,
-    "timeYear": 1393,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 35316,
     "timeWeek": 16743,
     "timeMonth": 10959,
-    "timeYear": 2639,
+    "timeYear": 2642,
     "dailyMinutesDown": {}
   },
   {
@@ -263,10 +263,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2115,
-    "timeDay": 1715,
+    "timeDay": 1788,
     "timeWeek": 2236,
     "timeMonth": 1970,
-    "timeYear": 2109,
+    "timeYear": 2106,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 664,
     "timeWeek": 815,
     "timeMonth": 746,
-    "timeYear": 1650,
+    "timeYear": 1653,
     "dailyMinutesDown": {}
   }
 ]
