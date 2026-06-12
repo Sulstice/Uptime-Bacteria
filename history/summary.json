@@ -14,7 +14,7 @@
     "timeDay": 981,
     "timeWeek": 1050,
     "timeMonth": 1082,
-    "timeYear": 1266,
+    "timeYear": 1268,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 770,
     "timeWeek": 757,
     "timeMonth": 763,
-    "timeYear": 1076,
+    "timeYear": 1077,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 427,
     "timeWeek": 526,
     "timeMonth": 652,
-    "timeYear": 1691,
+    "timeYear": 1694,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 1586,
     "timeWeek": 4887,
     "timeMonth": 4833,
-    "timeYear": 3787,
+    "timeYear": 3789,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 551,
     "timeWeek": 524,
     "timeMonth": 551,
-    "timeYear": 859,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   },
   {
@@ -156,9 +156,9 @@
     "uptimeYear": "100.00%",
     "time": 1753,
     "timeDay": 390,
-    "timeWeek": 431,
+    "timeWeek": 433,
     "timeMonth": 576,
-    "timeYear": 1932,
+    "timeYear": 1933,
     "dailyMinutesDown": {}
   },
   {
@@ -166,17 +166,17 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1991,
-    "timeDay": 1796,
-    "timeWeek": 2730,
-    "timeMonth": 2237,
-    "timeYear": 1973,
+    "time": 1990,
+    "timeDay": 1774,
+    "timeWeek": 2707,
+    "timeMonth": 2229,
+    "timeYear": 1972,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 441,
     "timeWeek": 411,
     "timeMonth": 572,
-    "timeYear": 569,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 594,
     "timeWeek": 490,
     "timeMonth": 795,
-    "timeYear": 1393,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 345,
     "timeWeek": 16742,
     "timeMonth": 10959,
-    "timeYear": 2639,
+    "timeYear": 2642,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 513,
     "timeWeek": 767,
     "timeMonth": 738,
-    "timeYear": 1650,
+    "timeYear": 1652,
     "dailyMinutesDown": {}
   }
 ]
