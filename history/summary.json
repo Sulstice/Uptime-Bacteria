@@ -86,7 +86,7 @@
     "timeDay": 153,
     "timeWeek": 394,
     "timeMonth": 630,
-    "timeYear": 1689,
+    "timeYear": 1671,
     "dailyMinutesDown": {}
   },
   {
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 3739,
     "timeDay": 1964,
-    "timeWeek": 3788,
+    "timeWeek": 2033,
     "timeMonth": 4942,
-    "timeYear": 3789,
+    "timeYear": 3790,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 430,
     "timeWeek": 492,
     "timeMonth": 540,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 425,
     "timeWeek": 416,
     "timeMonth": 564,
-    "timeYear": 1911,
+    "timeYear": 1913,
     "dailyMinutesDown": {}
   },
   {
@@ -166,17 +166,17 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1985,
-    "timeDay": 1499,
+    "time": 1984,
+    "timeDay": 1528,
     "timeWeek": 2553,
     "timeMonth": 2142,
-    "timeYear": 1958,
+    "timeYear": 1957,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 409,
     "timeWeek": 434,
     "timeMonth": 567,
-    "timeYear": 565,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 207,
     "timeWeek": 426,
     "timeMonth": 518,
-    "timeYear": 1391,
+    "timeYear": 1393,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 602,
     "timeWeek": 8310,
     "timeMonth": 7282,
-    "timeYear": 2639,
+    "timeYear": 2643,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 2311,
     "timeWeek": 1878,
     "timeMonth": 1971,
-    "timeYear": 2105,
+    "timeYear": 2106,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 221,
     "timeWeek": 551,
     "timeMonth": 711,
-    "timeYear": 1647,
+    "timeYear": 1649,
     "dailyMinutesDown": {}
   }
 ]
