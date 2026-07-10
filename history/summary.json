@@ -86,7 +86,7 @@
     "timeDay": 425,
     "timeWeek": 643,
     "timeMonth": 1004,
-    "timeYear": 1045,
+    "timeYear": 856,
     "dailyMinutesDown": {}
   },
   {
@@ -121,8 +121,8 @@
     "time": 3761,
     "timeDay": 1303,
     "timeWeek": 3026,
-    "timeMonth": 2205,
-    "timeYear": 3476,
+    "timeMonth": 2270,
+    "timeYear": 3479,
     "dailyMinutesDown": {}
   },
   {
@@ -148,17 +148,17 @@
     "url": "https://www.hmpdacc.org/hmp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hmpdacc.org.ico",
     "slug": "nih-human-microbiome-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1527,
-    "timeDay": 720,
-    "timeWeek": 454,
+    "timeDay": 544,
+    "timeWeek": 451,
     "timeMonth": 441,
-    "timeYear": 1658,
+    "timeYear": 1657,
     "dailyMinutesDown": {}
   },
   {
@@ -166,16 +166,16 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1954,
+    "time": 1953,
     "timeDay": 1269,
     "timeWeek": 1550,
-    "timeMonth": 1726,
+    "timeMonth": 1727,
     "timeYear": 1922,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 353,
     "timeWeek": 541,
     "timeMonth": 874,
-    "timeYear": 771,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 548,
     "timeWeek": 9075,
     "timeMonth": 7521,
-    "timeYear": 2913,
+    "timeYear": 2845,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 344,
     "timeWeek": 562,
     "timeMonth": 1178,
-    "timeYear": 904,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   }
 ]
