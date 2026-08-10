@@ -68,7 +68,7 @@
     "timeDay": 714,
     "timeWeek": 662,
     "timeMonth": 867,
-    "timeYear": 1115,
+    "timeYear": 1117,
     "dailyMinutesDown": {}
   },
   {
@@ -94,7 +94,7 @@
     "url": "https://www.ncbi.nlm.nih.gov/genome/microbes/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico",
     "slug": "national-center-for-bioinformatics-microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3883,
-    "timeDay": 2648,
-    "timeWeek": 4521,
+    "timeDay": 682,
+    "timeWeek": 4642,
     "timeMonth": 6768,
     "timeYear": 3789,
     "dailyMinutesDown": {}
@@ -157,7 +157,7 @@
     "time": 1445,
     "timeDay": 452,
     "timeWeek": 440,
-    "timeMonth": 483,
+    "timeMonth": 481,
     "timeYear": 1559,
     "dailyMinutesDown": {}
   },
@@ -173,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1997,
-    "timeDay": 2130,
+    "timeDay": 2091,
     "timeWeek": 1731,
-    "timeMonth": 2587,
+    "timeMonth": 2664,
     "timeYear": 1852,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 2113,
     "timeDay": 1594,
     "timeWeek": 1794,
-    "timeMonth": 2061,
+    "timeMonth": 2054,
     "timeYear": 2098,
     "dailyMinutesDown": {}
   },
