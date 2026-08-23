@@ -22,13 +22,13 @@
     "url": "https://www.ddbj.nig.ac.jp/services/index-e.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.ddbj.nig.ac.jp.ico",
     "slug": "ddbj-bioinformatics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
+    "time": 991,
     "timeDay": 738,
     "timeWeek": 835,
     "timeMonth": 1546,
@@ -122,7 +122,7 @@
     "timeDay": 2613,
     "timeWeek": 7489,
     "timeMonth": 6777,
-    "timeYear": 3848,
+    "timeYear": 3854,
     "dailyMinutesDown": {}
   },
   {
@@ -157,7 +157,7 @@
     "time": 1445,
     "timeDay": 561,
     "timeWeek": 621,
-    "timeMonth": 503,
+    "timeMonth": 505,
     "timeYear": 1548,
     "dailyMinutesDown": {}
   },
