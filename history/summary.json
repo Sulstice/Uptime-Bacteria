@@ -68,7 +68,7 @@
     "timeDay": 918,
     "timeWeek": 1117,
     "timeMonth": 899,
-    "timeYear": 1118,
+    "timeYear": 1103,
     "dailyMinutesDown": {}
   },
   {
@@ -184,17 +184,17 @@
     "url": "https://gold.jgi.doe.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/gold.jgi.doe.gov.ico",
     "slug": "jgi-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 454,
-    "timeWeek": 360,
-    "timeMonth": 318,
-    "timeYear": 536,
+    "time": 575,
+    "timeDay": 281,
+    "timeWeek": 335,
+    "timeMonth": 313,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
