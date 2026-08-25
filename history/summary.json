@@ -175,7 +175,7 @@
     "time": 1979,
     "timeDay": 1082,
     "timeWeek": 1493,
-    "timeMonth": 1580,
+    "timeMonth": 1569,
     "timeYear": 1839,
     "dailyMinutesDown": {}
   },
@@ -274,17 +274,17 @@
     "url": "https://vibrio.biocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/vibrio.biocyc.org.ico",
     "slug": "vibrio-cholera-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 1619,
-    "timeWeek": 1524,
-    "timeMonth": 1271,
-    "timeYear": 839,
+    "time": 1530,
+    "timeDay": 1391,
+    "timeWeek": 1479,
+    "timeMonth": 1267,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   }
 ]
