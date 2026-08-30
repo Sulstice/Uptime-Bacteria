@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1246,
     "timeDay": 960,
-    "timeWeek": 1034,
+    "timeWeek": 1050,
     "timeMonth": 1180,
-    "timeYear": 1215,
+    "timeYear": 1216,
     "dailyMinutesDown": {}
   },
   {
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1042,
     "timeDay": 720,
-    "timeWeek": 4040,
+    "timeWeek": 5099,
     "timeMonth": 2183,
     "timeYear": 1088,
     "dailyMinutesDown": {}
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 428,
     "timeDay": 91,
-    "timeWeek": 50,
+    "timeWeek": 51,
     "timeMonth": 53,
-    "timeYear": 368,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 1140,
     "timeDay": 1042,
-    "timeWeek": 938,
+    "timeWeek": 911,
     "timeMonth": 894,
-    "timeYear": 1107,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   },
   {
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1488,
     "timeDay": 2540,
-    "timeWeek": 1288,
+    "timeWeek": 1410,
     "timeMonth": 1306,
     "timeYear": 825,
     "dailyMinutesDown": {}
@@ -102,9 +102,9 @@
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 593,
-    "timeWeek": 379,
+    "timeWeek": 410,
     "timeMonth": 467,
-    "timeYear": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 3854,
     "timeDay": 3074,
-    "timeWeek": 4752,
-    "timeMonth": 5815,
-    "timeYear": 3874,
+    "timeWeek": 3921,
+    "timeMonth": 5798,
+    "timeYear": 3876,
     "dailyMinutesDown": {}
   },
   {
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 464,
-    "timeWeek": 521,
+    "timeWeek": 513,
     "timeMonth": 504,
     "timeYear": 774,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1444,
     "timeDay": 688,
-    "timeWeek": 549,
+    "timeWeek": 557,
     "timeMonth": 544,
     "timeYear": 1542,
     "dailyMinutesDown": {}
@@ -166,17 +166,17 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1973,
-    "timeDay": 1587,
-    "timeWeek": 1607,
-    "timeMonth": 1591,
-    "timeYear": 1840,
+    "timeDay": 1525,
+    "timeWeek": 1599,
+    "timeMonth": 1588,
+    "timeYear": 1839,
     "dailyMinutesDown": {}
   },
   {
@@ -190,9 +190,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
+    "time": 537,
     "timeDay": 393,
-    "timeWeek": 318,
+    "timeWeek": 329,
     "timeMonth": 311,
     "timeYear": 511,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 65,
-    "timeWeek": 51,
+    "timeWeek": 56,
     "timeMonth": 39,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1174,
     "timeDay": 1916,
-    "timeWeek": 1377,
+    "timeWeek": 1259,
     "timeMonth": 1338,
     "timeYear": 682,
     "dailyMinutesDown": {}
@@ -246,9 +246,9 @@
     "uptimeYear": "100.00%",
     "time": 2832,
     "timeDay": 560,
-    "timeWeek": 603,
+    "timeWeek": 663,
     "timeMonth": 3093,
-    "timeYear": 3061,
+    "timeYear": 3065,
     "dailyMinutesDown": {}
   },
   {
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 2121,
     "timeDay": 2248,
-    "timeWeek": 2571,
+    "timeWeek": 2399,
     "timeMonth": 2188,
     "timeYear": 2118,
     "dailyMinutesDown": {}
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 1572,
     "timeDay": 0,
-    "timeWeek": 10760,
+    "timeWeek": 13165,
     "timeMonth": 2994,
     "timeYear": 972,
     "dailyMinutesDown": {}
