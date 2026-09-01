@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 3850,
     "timeDay": 2994,
-    "timeWeek": 4141,
+    "timeWeek": 3147,
     "timeMonth": 5623,
     "timeYear": 3877,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "url": "https://www.ecocyc.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ecocyc.org.ico",
     "slug": "ecocyc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
