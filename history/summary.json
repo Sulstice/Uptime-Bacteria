@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1244,
     "timeDay": 777,
-    "timeWeek": 1077,
+    "timeWeek": 1074,
     "timeMonth": 1201,
     "timeYear": 1214,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1041,
     "timeDay": 900,
-    "timeWeek": 794,
+    "timeWeek": 791,
     "timeMonth": 1591,
     "timeYear": 1087,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 75,
-    "timeWeek": 56,
+    "timeWeek": 60,
     "timeMonth": 57,
     "timeYear": 362,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1131,
     "timeDay": 818,
-    "timeWeek": 958,
+    "timeWeek": 988,
     "timeMonth": 894,
     "timeYear": 1108,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1490,
     "timeDay": 1852,
-    "timeWeek": 1473,
+    "timeWeek": 1307,
     "timeMonth": 1420,
     "timeYear": 832,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 441,
     "timeDay": 435,
-    "timeWeek": 443,
+    "timeWeek": 442,
     "timeMonth": 456,
     "timeYear": 462,
     "dailyMinutesDown": {}
@@ -119,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3835,
-    "timeDay": 3917,
-    "timeWeek": 3294,
+    "timeDay": 4233,
+    "timeWeek": 3295,
     "timeMonth": 5020,
     "timeYear": 3885,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 505,
-    "timeWeek": 489,
+    "timeWeek": 484,
     "timeMonth": 499,
     "timeYear": 769,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 1445,
     "timeDay": 467,
-    "timeWeek": 604,
+    "timeWeek": 615,
     "timeMonth": 549,
     "timeYear": 1538,
     "dailyMinutesDown": {}
@@ -166,16 +166,16 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1969,
-    "timeDay": 1787,
-    "timeWeek": 1521,
-    "timeMonth": 1556,
+    "timeDay": 1618,
+    "timeWeek": 1474,
+    "timeMonth": 1554,
     "timeYear": 1835,
     "dailyMinutesDown": {}
   },
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 372,
-    "timeWeek": 330,
+    "timeWeek": 329,
     "timeMonth": 311,
     "timeYear": 509,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 76,
-    "timeWeek": 72,
+    "timeWeek": 67,
     "timeMonth": 46,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1110,
     "timeDay": 0,
-    "timeWeek": 1912,
+    "timeWeek": 1806,
     "timeMonth": 1571,
     "timeYear": 693,
     "dailyMinutesDown": {}
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 2864,
     "timeDay": 476,
-    "timeWeek": 4151,
+    "timeWeek": 4681,
     "timeMonth": 3191,
     "timeYear": 3077,
     "dailyMinutesDown": {}
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 2122,
     "timeDay": 1882,
-    "timeWeek": 2054,
+    "timeWeek": 2011,
     "timeMonth": 2131,
     "timeYear": 2120,
     "dailyMinutesDown": {}
