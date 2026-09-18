@@ -13,7 +13,7 @@
     "time": 1235,
     "timeDay": 1015,
     "timeWeek": 1118,
-    "timeMonth": 1193,
+    "timeMonth": 1180,
     "timeYear": 1205,
     "dailyMinutesDown": {}
   },
@@ -31,8 +31,8 @@
     "time": 1038,
     "timeDay": 954,
     "timeWeek": 782,
-    "timeMonth": 1586,
-    "timeYear": 1063,
+    "timeMonth": 1619,
+    "timeYear": 1062,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "time": 405,
     "timeDay": 117,
     "timeWeek": 60,
-    "timeMonth": 62,
-    "timeYear": 341,
+    "timeMonth": 63,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 1136,
     "timeDay": 948,
     "timeWeek": 1093,
-    "timeMonth": 955,
+    "timeMonth": 958,
     "timeYear": 1102,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,17 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1462,
-    "timeDay": 18431,
-    "timeWeek": 3778,
-    "timeMonth": 2297,
-    "timeYear": 929,
+    "time": 1478,
+    "timeDay": 13031,
+    "timeWeek": 4260,
+    "timeMonth": 2467,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +103,8 @@
     "time": 443,
     "timeDay": 609,
     "timeWeek": 538,
-    "timeMonth": 460,
-    "timeYear": 464,
+    "timeMonth": 453,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -121,8 +121,8 @@
     "time": 3952,
     "timeDay": 11265,
     "timeWeek": 6054,
-    "timeMonth": 5749,
-    "timeYear": 3944,
+    "timeMonth": 5829,
+    "timeYear": 3946,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 793,
     "timeDay": 482,
     "timeWeek": 489,
-    "timeMonth": 485,
+    "timeMonth": 487,
     "timeYear": 754,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1444,
     "timeDay": 490,
     "timeWeek": 642,
-    "timeMonth": 605,
+    "timeMonth": 602,
     "timeYear": 1527,
     "dailyMinutesDown": {}
   },
@@ -175,8 +175,8 @@
     "time": 1963,
     "timeDay": 1559,
     "timeWeek": 1503,
-    "timeMonth": 1513,
-    "timeYear": 1825,
+    "timeMonth": 1519,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
   },
   {
@@ -193,8 +193,8 @@
     "time": 629,
     "timeDay": 366,
     "timeWeek": 313,
-    "timeMonth": 314,
-    "timeYear": 488,
+    "timeMonth": 313,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -211,7 +211,7 @@
     "time": 122,
     "timeDay": 85,
     "timeWeek": 41,
-    "timeMonth": 50,
+    "timeMonth": 51,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -229,8 +229,8 @@
     "time": 1037,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1537,
-    "timeYear": 700,
+    "timeMonth": 1506,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -247,8 +247,8 @@
     "time": 2886,
     "timeDay": 373,
     "timeWeek": 559,
-    "timeMonth": 3083,
-    "timeYear": 3118,
+    "timeMonth": 3154,
+    "timeYear": 3122,
     "dailyMinutesDown": {}
   },
   {
@@ -265,8 +265,8 @@
     "time": 2122,
     "timeDay": 1735,
     "timeWeek": 2026,
-    "timeMonth": 2235,
-    "timeYear": 2124,
+    "timeMonth": 2226,
+    "timeYear": 2125,
     "dailyMinutesDown": {}
   },
   {
@@ -283,8 +283,8 @@
     "time": 1442,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 6221,
-    "timeYear": 985,
+    "timeMonth": 6784,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   }
 ]
