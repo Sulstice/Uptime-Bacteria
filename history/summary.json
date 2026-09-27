@@ -13,7 +13,7 @@
     "time": 1227,
     "timeDay": 1102,
     "timeWeek": 1304,
-    "timeMonth": 1122,
+    "timeMonth": 1112,
     "timeYear": 1200,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1038,
     "timeDay": 1582,
     "timeWeek": 876,
-    "timeMonth": 808,
+    "timeMonth": 806,
     "timeYear": 1063,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 394,
     "timeDay": 35,
     "timeWeek": 83,
-    "timeMonth": 62,
+    "timeMonth": 63,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1131,
     "timeDay": 712,
     "timeWeek": 1094,
-    "timeMonth": 1012,
+    "timeMonth": 1018,
     "timeYear": 1108,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1351,
     "timeDay": 1373,
     "timeWeek": 4243,
-    "timeMonth": 3038,
+    "timeMonth": 3084,
     "timeYear": 975,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 446,
     "timeDay": 310,
     "timeWeek": 568,
-    "timeMonth": 479,
+    "timeMonth": 490,
     "timeYear": 470,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 3953,
     "timeDay": 5691,
     "timeWeek": 4924,
-    "timeMonth": 4765,
+    "timeMonth": 4804,
     "timeYear": 3978,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 786,
     "timeDay": 552,
     "timeWeek": 510,
-    "timeMonth": 491,
+    "timeMonth": 488,
     "timeYear": 744,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1445,
     "timeDay": 706,
     "timeWeek": 603,
-    "timeMonth": 599,
+    "timeMonth": 608,
     "timeYear": 1520,
     "dailyMinutesDown": {}
   },
@@ -166,16 +166,16 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1954,
-    "timeDay": 0,
-    "timeWeek": 1458,
-    "timeMonth": 1521,
+    "time": 1953,
+    "timeDay": 1695,
+    "timeWeek": 1492,
+    "timeMonth": 1515,
     "timeYear": 1820,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 655,
     "timeDay": 423,
     "timeWeek": 303,
-    "timeMonth": 717,
+    "timeMonth": 723,
     "timeYear": 526,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 115,
     "timeDay": 31,
     "timeWeek": 182,
-    "timeMonth": 78,
+    "timeMonth": 79,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 959,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1901,
+    "timeMonth": 1912,
     "timeYear": 702,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 2849,
     "timeDay": 409,
     "timeWeek": 734,
-    "timeMonth": 2059,
+    "timeMonth": 2109,
     "timeYear": 3118,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 2121,
     "timeDay": 1864,
     "timeWeek": 1871,
-    "timeMonth": 2084,
+    "timeMonth": 2059,
     "timeYear": 2119,
     "dailyMinutesDown": {}
   },
