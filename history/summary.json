@@ -50,7 +50,7 @@
     "timeDay": 64,
     "timeWeek": 69,
     "timeMonth": 73,
-    "timeYear": 304,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 733,
     "timeWeek": 822,
     "timeMonth": 2370,
-    "timeYear": 1033,
+    "timeYear": 1035,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 440,
     "timeWeek": 352,
     "timeMonth": 497,
-    "timeYear": 478,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://bacteria.ensembl.org/species.html",
     "icon": "https://icons.duckduckgo.com/ip3/bacteria.ensembl.org.ico",
     "slug": "ensembl-bacteria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3958,
-    "timeDay": 2612,
-    "timeWeek": 3145,
-    "timeMonth": 5728,
+    "time": 3951,
+    "timeDay": 2468,
+    "timeWeek": 3056,
+    "timeMonth": 5667,
     "timeYear": 4075,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "timeDay": 424,
     "timeWeek": 507,
     "timeMonth": 505,
-    "timeYear": 718,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -184,17 +184,17 @@
     "url": "https://gold.jgi.doe.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/gold.jgi.doe.gov.ico",
     "slug": "jgi-genomes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 176,
-    "timeWeek": 283,
-    "timeMonth": 840,
-    "timeYear": 503,
+    "time": 643,
+    "timeDay": 234,
+    "timeWeek": 290,
+    "timeMonth": 827,
+    "timeYear": 502,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -245,10 +245,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2792,
-    "timeDay": 460,
+    "timeDay": 606,
     "timeWeek": 479,
     "timeMonth": 527,
-    "timeYear": 3083,
+    "timeYear": 3091,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 2535,
     "timeWeek": 2068,
     "timeMonth": 1921,
-    "timeYear": 2106,
+    "timeYear": 2107,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {}
   }
 ]
