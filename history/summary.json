@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1221,
     "timeDay": 1234,
-    "timeWeek": 1132,
-    "timeMonth": 1065,
-    "timeYear": 1185,
+    "timeWeek": 1122,
+    "timeMonth": 1079,
+    "timeYear": 1183,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 1031,
     "timeDay": 810,
-    "timeWeek": 826,
-    "timeMonth": 806,
-    "timeYear": 1052,
+    "timeWeek": 821,
+    "timeMonth": 803,
+    "timeYear": 1053,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 117,
-    "timeWeek": 65,
+    "timeWeek": 61,
     "timeMonth": 66,
-    "timeYear": 290,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1148,
     "timeDay": 890,
-    "timeWeek": 970,
-    "timeMonth": 1060,
+    "timeWeek": 925,
+    "timeMonth": 1061,
     "timeYear": 1123,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,17 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1044,
-    "timeDay": 6459,
-    "timeWeek": 1297,
-    "timeMonth": 1414,
-    "timeYear": 1045,
+    "time": 1085,
+    "timeDay": 13278,
+    "timeWeek": 3728,
+    "timeMonth": 1943,
+    "timeYear": 1097,
     "dailyMinutesDown": {}
   },
   {
@@ -102,8 +102,8 @@
     "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 273,
-    "timeWeek": 341,
-    "timeMonth": 451,
+    "timeWeek": 310,
+    "timeMonth": 458,
     "timeYear": 477,
     "dailyMinutesDown": {}
   },
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 3934,
     "timeDay": 11112,
-    "timeWeek": 6969,
-    "timeMonth": 5669,
-    "timeYear": 4116,
+    "timeWeek": 7322,
+    "timeMonth": 5529,
+    "timeYear": 4117,
     "dailyMinutesDown": {}
   },
   {
@@ -138,8 +138,8 @@
     "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 552,
-    "timeWeek": 501,
-    "timeMonth": 500,
+    "timeWeek": 506,
+    "timeMonth": 497,
     "timeYear": 709,
     "dailyMinutesDown": {}
   },
@@ -156,8 +156,8 @@
     "uptimeYear": "100.00%",
     "time": 1447,
     "timeDay": 512,
-    "timeWeek": 577,
-    "timeMonth": 569,
+    "timeWeek": 583,
+    "timeMonth": 576,
     "timeYear": 1495,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://mbgd.nibb.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/mbgd.nibb.ac.jp.ico",
     "slug": "microbial-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,9 +174,9 @@
     "uptimeYear": "100.00%",
     "time": 2175,
     "timeDay": 1475,
-    "timeWeek": 1462,
-    "timeMonth": 6708,
-    "timeYear": 2129,
+    "timeWeek": 1481,
+    "timeMonth": 5992,
+    "timeYear": 2130,
     "dailyMinutesDown": {}
   },
   {
@@ -192,9 +192,9 @@
     "uptimeYear": "100.00%",
     "time": 601,
     "timeDay": 504,
-    "timeWeek": 348,
-    "timeMonth": 325,
-    "timeYear": 496,
+    "timeWeek": 349,
+    "timeMonth": 321,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 716,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -246,9 +246,9 @@
     "uptimeYear": "100.00%",
     "time": 3004,
     "timeDay": 424,
-    "timeWeek": 6525,
+    "timeWeek": 7339,
     "timeMonth": 1858,
-    "timeYear": 3152,
+    "timeYear": 3156,
     "dailyMinutesDown": {}
   },
   {
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 2091,
     "timeDay": 947,
-    "timeWeek": 826,
+    "timeWeek": 851,
     "timeMonth": 1612,
     "timeYear": 2079,
     "dailyMinutesDown": {}
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1022,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   }
 ]
