@@ -13,8 +13,8 @@
     "time": 1217,
     "timeDay": 824,
     "timeWeek": 1121,
-    "timeMonth": 1119,
-    "timeYear": 1182,
+    "timeMonth": 1129,
+    "timeYear": 1183,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 1031,
     "timeDay": 1041,
     "timeWeek": 883,
-    "timeMonth": 805,
+    "timeMonth": 811,
     "timeYear": 1052,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "time": 357,
     "timeDay": 26,
     "timeWeek": 82,
-    "timeMonth": 65,
-    "timeYear": 283,
+    "timeMonth": 66,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "time": 1114,
     "timeDay": 701,
     "timeWeek": 944,
-    "timeMonth": 1067,
-    "timeYear": 1127,
+    "timeMonth": 1080,
+    "timeYear": 1126,
     "dailyMinutesDown": {}
   },
   {
@@ -85,8 +85,8 @@
     "time": 1662,
     "timeDay": 10357,
     "timeWeek": 7434,
-    "timeMonth": 2728,
-    "timeYear": 1188,
+    "timeMonth": 2793,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 454,
     "timeDay": 150,
     "timeWeek": 279,
-    "timeMonth": 382,
+    "timeMonth": 378,
     "timeYear": 476,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://bacteria.ensembl.org/species.html",
     "icon": "https://icons.duckduckgo.com/ip3/bacteria.ensembl.org.ico",
     "slug": "ensembl-bacteria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3934,
-    "timeDay": 2453,
-    "timeWeek": 7373,
-    "timeMonth": 5092,
-    "timeYear": 4145,
+    "time": 3933,
+    "timeDay": 1721,
+    "timeWeek": 7018,
+    "timeMonth": 5060,
+    "timeYear": 4144,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 756,
     "timeDay": 569,
     "timeWeek": 529,
-    "timeMonth": 497,
+    "timeMonth": 500,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1448,
     "timeDay": 326,
     "timeWeek": 567,
-    "timeMonth": 587,
+    "timeMonth": 584,
     "timeYear": 1490,
     "dailyMinutesDown": {}
   },
@@ -173,10 +173,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2167,
-    "timeDay": 1656,
-    "timeWeek": 1483,
-    "timeMonth": 5331,
-    "timeYear": 2121,
+    "timeDay": 1815,
+    "timeWeek": 1543,
+    "timeMonth": 3775,
+    "timeYear": 2122,
     "dailyMinutesDown": {}
   },
   {
@@ -193,8 +193,8 @@
     "time": 565,
     "timeDay": 190,
     "timeWeek": 353,
-    "timeMonth": 314,
-    "timeYear": 493,
+    "timeMonth": 319,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -211,7 +211,7 @@
     "time": 107,
     "timeDay": 37,
     "timeWeek": 62,
-    "timeMonth": 54,
+    "timeMonth": 55,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -247,8 +247,8 @@
     "time": 3000,
     "timeDay": 246,
     "timeWeek": 383,
-    "timeMonth": 1813,
-    "timeYear": 3135,
+    "timeMonth": 1847,
+    "timeYear": 3140,
     "dailyMinutesDown": {}
   },
   {
@@ -265,8 +265,8 @@
     "time": 2075,
     "timeDay": 847,
     "timeWeek": 899,
-    "timeMonth": 1455,
-    "timeYear": 2064,
+    "timeMonth": 1428,
+    "timeYear": 2065,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1027,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   }
 ]
