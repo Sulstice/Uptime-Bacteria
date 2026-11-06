@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1218,
     "timeDay": 1601,
-    "timeWeek": 1174,
-    "timeMonth": 1144,
-    "timeYear": 1184,
+    "timeWeek": 1201,
+    "timeMonth": 1148,
+    "timeYear": 1183,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 1031,
     "timeDay": 731,
-    "timeWeek": 871,
-    "timeMonth": 808,
-    "timeYear": 1051,
+    "timeWeek": 862,
+    "timeMonth": 815,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 85,
-    "timeWeek": 77,
-    "timeMonth": 67,
-    "timeYear": 281,
+    "timeWeek": 69,
+    "timeMonth": 68,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1113,
     "timeDay": 907,
-    "timeWeek": 946,
-    "timeMonth": 1074,
+    "timeWeek": 980,
+    "timeMonth": 1062,
     "timeYear": 1126,
     "dailyMinutesDown": {}
   },
@@ -84,9 +84,9 @@
     "uptimeYear": "100.00%",
     "time": 1660,
     "timeDay": 416,
-    "timeWeek": 6763,
-    "timeMonth": 2733,
-    "timeYear": 1187,
+    "timeWeek": 5728,
+    "timeMonth": 2796,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -102,9 +102,9 @@
     "uptimeYear": "100.00%",
     "time": 453,
     "timeDay": 393,
-    "timeWeek": 296,
-    "timeMonth": 379,
-    "timeYear": 476,
+    "timeWeek": 317,
+    "timeMonth": 368,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,17 @@
     "url": "https://bacteria.ensembl.org/species.html",
     "icon": "https://icons.duckduckgo.com/ip3/bacteria.ensembl.org.ico",
     "slug": "ensembl-bacteria",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3923,
-    "timeDay": 1896,
-    "timeWeek": 4835,
-    "timeMonth": 4912,
-    "timeYear": 4140,
+    "time": 3924,
+    "timeDay": 2529,
+    "timeWeek": 4846,
+    "timeMonth": 4799,
+    "timeYear": 4142,
     "dailyMinutesDown": {}
   },
   {
@@ -138,8 +138,8 @@
     "uptimeYear": "100.00%",
     "time": 755,
     "timeDay": 464,
-    "timeWeek": 516,
-    "timeMonth": 499,
+    "timeWeek": 505,
+    "timeMonth": 502,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -156,8 +156,8 @@
     "uptimeYear": "100.00%",
     "time": 1448,
     "timeDay": 721,
-    "timeWeek": 596,
-    "timeMonth": 588,
+    "timeWeek": 616,
+    "timeMonth": 589,
     "timeYear": 1490,
     "dailyMinutesDown": {}
   },
@@ -175,8 +175,8 @@
     "time": 2166,
     "timeDay": 1572,
     "timeWeek": 1556,
-    "timeMonth": 3708,
-    "timeYear": 2121,
+    "timeMonth": 3779,
+    "timeYear": 2122,
     "dailyMinutesDown": {}
   },
   {
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 565,
     "timeDay": 488,
-    "timeWeek": 350,
+    "timeWeek": 342,
     "timeMonth": 324,
     "timeYear": 492,
     "dailyMinutesDown": {}
@@ -210,8 +210,8 @@
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 82,
-    "timeWeek": 62,
-    "timeMonth": 56,
+    "timeWeek": 65,
+    "timeMonth": 57,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 720,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -246,9 +246,9 @@
     "uptimeYear": "100.00%",
     "time": 3004,
     "timeDay": 506,
-    "timeWeek": 409,
-    "timeMonth": 1774,
-    "timeYear": 3124,
+    "timeWeek": 425,
+    "timeMonth": 1803,
+    "timeYear": 3127,
     "dailyMinutesDown": {}
   },
   {
@@ -264,8 +264,8 @@
     "uptimeYear": "100.00%",
     "time": 2073,
     "timeDay": 872,
-    "timeWeek": 888,
-    "timeMonth": 1410,
+    "timeWeek": 921,
+    "timeMonth": 1391,
     "timeYear": 2062,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1028,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   }
 ]
