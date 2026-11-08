@@ -32,7 +32,7 @@
     "timeDay": 575,
     "timeWeek": 818,
     "timeMonth": 811,
-    "timeYear": 1040,
+    "timeYear": 1028,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 856,
     "timeWeek": 877,
     "timeMonth": 1048,
-    "timeYear": 1126,
+    "timeYear": 1127,
     "dailyMinutesDown": {}
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,7 +86,7 @@
     "timeDay": 367,
     "timeWeek": 3053,
     "timeMonth": 2940,
-    "timeYear": 1208,
+    "timeYear": 1209,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 521,
     "timeWeek": 383,
     "timeMonth": 367,
-    "timeYear": 475,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 3907,
     "timeDay": 2851,
-    "timeWeek": 3115,
+    "timeWeek": 3221,
     "timeMonth": 4957,
-    "timeYear": 4147,
+    "timeYear": 4149,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 412,
     "timeWeek": 486,
     "timeMonth": 499,
-    "timeYear": 700,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 1382,
     "timeWeek": 1510,
     "timeMonth": 2949,
-    "timeYear": 2120,
+    "timeYear": 2121,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 258,
     "timeWeek": 357,
     "timeMonth": 324,
-    "timeYear": 492,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 51,
     "timeWeek": 72,
     "timeMonth": 57,
-    "timeYear": 90,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 567,
     "timeWeek": 473,
     "timeMonth": 1770,
-    "timeYear": 3123,
+    "timeYear": 3116,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 805,
     "timeWeek": 853,
     "timeMonth": 1285,
-    "timeYear": 2053,
+    "timeYear": 2054,
     "dailyMinutesDown": {}
   },
   {
