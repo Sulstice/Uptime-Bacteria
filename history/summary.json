@@ -13,8 +13,8 @@
     "time": 1217,
     "timeDay": 1102,
     "timeWeek": 1171,
-    "timeMonth": 1154,
-    "timeYear": 1179,
+    "timeMonth": 1133,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -31,8 +31,8 @@
     "time": 1025,
     "timeDay": 767,
     "timeWeek": 699,
-    "timeMonth": 793,
-    "timeYear": 1012,
+    "timeMonth": 794,
+    "timeYear": 1013,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "time": 343,
     "timeDay": 33,
     "timeWeek": 56,
-    "timeMonth": 67,
-    "timeYear": 264,
+    "timeMonth": 68,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://www.atcc.org/resources/application-notes/microbial-genome-databases",
     "icon": "https://icons.duckduckgo.com/ip3/www.atcc.org.ico",
     "slug": "atcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 812,
-    "timeWeek": 934,
-    "timeMonth": 971,
-    "timeYear": 1144,
+    "time": 1139,
+    "timeDay": 13037,
+    "timeWeek": 3975,
+    "timeMonth": 1737,
+    "timeYear": 1203,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://biocyc.org",
     "icon": "https://icons.duckduckgo.com/ip3/biocyc.org.ico",
     "slug": "biocyc-genome-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1704,
-    "timeDay": 5983,
-    "timeWeek": 4184,
-    "timeMonth": 3617,
-    "timeYear": 1313,
+    "time": 1702,
+    "timeDay": 3274,
+    "timeWeek": 3822,
+    "timeMonth": 3624,
+    "timeYear": 1314,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 453,
     "timeDay": 421,
     "timeWeek": 433,
-    "timeMonth": 381,
+    "timeMonth": 377,
     "timeYear": 475,
     "dailyMinutesDown": {}
   },
@@ -121,8 +121,8 @@
     "time": 3924,
     "timeDay": 2592,
     "timeWeek": 3594,
-    "timeMonth": 4627,
-    "timeYear": 4178,
+    "timeMonth": 4655,
+    "timeYear": 4180,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 742,
     "timeDay": 568,
     "timeWeek": 473,
-    "timeMonth": 490,
+    "timeMonth": 492,
     "timeYear": 690,
     "dailyMinutesDown": {}
   },
@@ -175,8 +175,8 @@
     "time": 2145,
     "timeDay": 1293,
     "timeWeek": 1411,
-    "timeMonth": 1478,
-    "timeYear": 2115,
+    "timeMonth": 1473,
+    "timeYear": 2116,
     "dailyMinutesDown": {}
   },
   {
@@ -193,8 +193,8 @@
     "time": 560,
     "timeDay": 372,
     "timeWeek": 293,
-    "timeMonth": 323,
-    "timeYear": 488,
+    "timeMonth": 331,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -211,7 +211,7 @@
     "time": 105,
     "timeDay": 126,
     "timeWeek": 64,
-    "timeMonth": 65,
+    "timeMonth": 66,
     "timeYear": 87,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 728,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
@@ -247,8 +247,8 @@
     "time": 3055,
     "timeDay": 395,
     "timeWeek": 2852,
-    "timeMonth": 3021,
-    "timeYear": 3146,
+    "timeMonth": 3091,
+    "timeYear": 3150,
     "dailyMinutesDown": {}
   },
   {
@@ -265,7 +265,7 @@
     "time": 2049,
     "timeDay": 906,
     "timeWeek": 892,
-    "timeMonth": 945,
+    "timeMonth": 905,
     "timeYear": 1987,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1044,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   }
 ]
